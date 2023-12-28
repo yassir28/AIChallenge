@@ -1,1 +1,1 @@
-This is part of challenge to read data and visualize it.
+This is part of challenge to read data and forecast it.
